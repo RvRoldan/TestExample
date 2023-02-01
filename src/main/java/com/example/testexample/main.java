@@ -13,6 +13,7 @@ public class main {
         cart.addGame(game2);
         cart.addGame(game3);
         cart.addGame(game4);
+        cart.addGame(game5);
 
         System.out.println("Total Value of Games in Cart: $" + cart.getTotal());
         System.out.println("All Genres: " + cart.getGenres());
